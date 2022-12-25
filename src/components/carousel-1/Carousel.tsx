@@ -49,3 +49,4 @@ export const Carousel = () => (
     </ReactCarousel>
   </div>
 );
+//first look
